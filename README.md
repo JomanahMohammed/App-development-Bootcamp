@@ -1,16 +1,15 @@
-# project1
+# project
 
-A new Flutter project.
+<h2>Skills: </h2>
+ 💫   Flutter <br>
+ ✨   Dart <br>
 
-## Getting Started
+ <h2>Editor: </h2>
+ 📝   Android Studio <br>
 
-This project is a starting point for a Flutter application.
+  <h2>Personal Profile : </h2>
 
-A few resources to get you started if this is your first Flutter project:
+  <img src="https://github.com/JomanahMohammed/App-development-Bootcamp/assets/113805329/bb0de251-bfc0-487d-85c8-8c4e55067a64" width="700px"><br><br>
+  <img src="https://github.com/JomanahMohammed/App-development-Bootcamp/assets/113805329/e4bb4dab-dbbe-46af-a6eb-7ab81639907e" width="300px"><br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
